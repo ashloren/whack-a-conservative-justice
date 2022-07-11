@@ -12,7 +12,7 @@ function run(){
 
     const img = document.createElement('img')
     img.classList.add('mole')
-    img.src = 'assets/mole.png'
+    img.src = 'https://github.com/ashloren/whack-a-conservative-justice/blob/main/1.jpg'
 
     img.addEventListener('click', () => {
         score += 10
