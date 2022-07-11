@@ -12,7 +12,7 @@ function run(){
 
     const img = document.createElement('img')
     img.classList.add('mole')
-    img.src = 'assets/mole.png'
+    img.src = 'assets/1.png'
 
     img.addEventListener('click', () => {
         score += 10
